@@ -1,4 +1,4 @@
-# G.Mkhize - Data Science Portfolio
+# G. Mkhize - Data Science Portfolio
 
 
 Human-centred Data Scientist with a background in Philosophy, Digital Strategy, 
